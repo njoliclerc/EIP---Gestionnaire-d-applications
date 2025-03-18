@@ -14,17 +14,11 @@ Les ressources sont organisées par catégories afin de faciliter la navigation.
 
 z/OS est un système d'exploitation puissant et central pour les environnements mainframe. Il gère les ressources matérielles et logicielles, et permet le traitement de données à grande échelle.
 
-- [Documentation officielle z/OS](https://www.ibm.com/docs/en/zos)  
+- [Documentation détaillée sur z/OS](https://www.ibm.com/docs/en/zos/2.5.0)    
   Accédez à la documentation complète d'IBM sur z/OS pour une compréhension approfondie du système d'exploitation.
-
-- [Introduction à z/OS par IBM](https://www.ibm.com/it-infrastructure/z)  
-  Une introduction détaillée aux fonctionnalités de z/OS, présentée par IBM.
 
 - [Vidéo d'introduction à z/OS](https://www.youtube.com/watch?v=7-9cOM5fpQ0)  
   Une vidéo introductive qui présente les bases de z/OS et ses fonctionnalités essentielles pour les gestionnaires d'applications.
-
-- [Documentation détaillée sur z/OS](https://www.ibm.com/docs/en/zos/2.5.0)  
-  Une ressource complète sur les dernières versions de z/OS.
 
 ---
 
