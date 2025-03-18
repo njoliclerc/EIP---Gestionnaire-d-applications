@@ -78,6 +78,23 @@ Le **Job Control Language (JCL)** est utilisé pour contrôler l'exécution des 
 
 - [Vidéo : Cours complet (Anglais) sur le JCL en environnement mainframe](https://www.youtube.com/watch?v=bSdNNDscccg)  
   Cours complet sous forme de plusieurs vidéos.
+  
+---
+
+## Ordonnancement avec TWS (Tivoli Workload Scheduler)
+
+### Ordonnancement des tâches avec TWS
+
+L'**ordonnancement** des tâches est crucial pour la gestion des charges de travail sur un mainframe. TWS est l'outil de choix pour cette tâche.
+
+- [Documentation officielle TWS](https://www.ibm.com/docs/en/workload-automation/9.2.0)  
+  Un guide complet pour apprendre à utiliser Tivoli Workload Scheduler (TWS).
+
+- [Série de vidéo : Ordonnancement avec TWS](https://www.youtube.com/watch?v=gA6uogw9yX0&list=PLZ87gBR2Z805Eyip2v0EUxSQjSZKTAkIB)  
+  Une série de vidéo introductive pour comprendre le fonctionnement et la gestion des tâches avec TWS.
+
+- [Guide utilisateur](https://www.princeton.edu/~campcomd/tivoli/gc32-0423-00.pdf)  
+  Guide utilisateur complet de TWS.
 
 ---
 
@@ -121,23 +138,6 @@ Le **scripting** sous Unix et Windows est également une compétence clé. Le sc
 
 - [Cours d'instroduction aux commandes Linux et Scripting : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529306-initiez-vous-au-shell-linterpreteur-de-commandes)  
   Cours + Exercices sur divers sujets autour de Linux / Scripting : OpenClassRoom.
-  
----
-
-## Ordonnancement avec TWS (Tivoli Workload Scheduler)
-
-### Ordonnancement des tâches avec TWS
-
-L'**ordonnancement** des tâches est crucial pour la gestion des charges de travail sur un mainframe. TWS est l'outil de choix pour cette tâche.
-
-- [Documentation officielle TWS](https://www.ibm.com/docs/en/workload-automation/9.2.0)  
-  Un guide complet pour apprendre à utiliser Tivoli Workload Scheduler (TWS).
-
-- [Série de vidéo : Ordonnancement avec TWS](https://www.youtube.com/watch?v=gA6uogw9yX0&list=PLZ87gBR2Z805Eyip2v0EUxSQjSZKTAkIB)  
-  Une série de vidéo introductive pour comprendre le fonctionnement et la gestion des tâches avec TWS.
-
-- [Guide utilisateur](https://www.princeton.edu/~campcomd/tivoli/gc32-0423-00.pdf)  
-  Guide utilisateur complet de TWS.
 
 ---
 
