@@ -19,7 +19,9 @@ z/OS est un système d'exploitation puissant et central pour les environnements 
 
 - [Vidéo d'introduction à z/OS](https://www.youtube.com/watch?v=7-9cOM5fpQ0)  
   Une vidéo introductive qui présente les bases de z/OS et ses fonctionnalités essentielles pour les gestionnaires d'applications.
-
+  
+- [Utilisation d'IBM Developer pour z/OS](https://www.ibm.com/docs/fr/adffz5/developer-for-zos/15.0)
+  Accédez à la documentation complète d'IBM sur z/OS pour une compréhension approfondie de l'ensemble d'outil IBM Developer.
 ---
 
 ## Ressources pour MVS et Gestion des Ressources
