@@ -8,6 +8,32 @@ Les ressources sont organisées par catégories afin de faciliter la navigation.
 
 ---
 
+## Prérequis: Scripting Unix et Windows sur Mainframe
+
+### Le Scripting sous Unix et Windows
+
+Le **scripting** sous Unix et Windows est également une compétence clé. Le scripting permet d'automatiser des tâches et de gérer les fichiers dans un environnement mainframe.
+
+- [Introduction au Scripting Unix sous z/OS](https://www.ibm.com/docs/en/zos/2.5.0?topic=scripting)  
+  La documentation pour vous initier au scripting Unix dans un environnement mainframe.
+
+- [Documentation sur PowerShell et scripts DOS pour mainframe](https://docs.microsoft.com/en-us/powershell/)  
+  Des ressources pour utiliser PowerShell et DOS dans un environnement mainframe.
+
+- [Liste de commandes utilisables sur l'éditeur VIM](https://www.linuxtrainingacademy.com/vim-cheat-sheet/)  
+  Cheat sheet des commandes utilisables sur l'éditeur VIM, un des éditeurs les plus utilisés pour le scripting Unix.
+
+- [Liste de commandes utilisables sous Linux](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)  
+  Cheat sheet des commandes utilisables sous Linux.
+
+- [Vidéo sur le scripting Unix dans un environnement mainframe](https://www.youtube.com/watch?v=9n_j7Zr6s6o)  
+  Cette vidéo explique comment utiliser les scripts Unix pour automatiser des tâches sur z/OS.
+
+- [Cours d'instroduction aux commandes Linux et Scripting : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529306-initiez-vous-au-shell-linterpreteur-de-commandes)  
+  Cours + Exercices sur divers sujets autour de Linux / Scripting : OpenClassRoom.
+
+---
+
 ## Ressources pour z/OS
 
 ### Qu'est-ce que z/OS ?
@@ -112,32 +138,6 @@ Les traitements **batch** et **transactionnels** sont des processus fondamentaux
 
 - [Vidéo : Gestion des traitements batch avec TWS](https://www.youtube.com/watch?v=03f4WiJXZgA)  
   Cette vidéo montre comment gérer les traitements batch à l'aide de l'ordonnanceur TWS.
-
----
-
-## Scripting Unix et Windows sur Mainframe
-
-### Le Scripting sous Unix et Windows
-
-Le **scripting** sous Unix et Windows est également une compétence clé. Le scripting permet d'automatiser des tâches et de gérer les fichiers dans un environnement mainframe.
-
-- [Introduction au Scripting Unix sous z/OS](https://www.ibm.com/docs/en/zos/2.5.0?topic=scripting)  
-  La documentation pour vous initier au scripting Unix dans un environnement mainframe.
-
-- [Documentation sur PowerShell et scripts DOS pour mainframe](https://docs.microsoft.com/en-us/powershell/)  
-  Des ressources pour utiliser PowerShell et DOS dans un environnement mainframe.
-
-- [Liste de commandes utilisables sur l'éditeur VIM](https://www.linuxtrainingacademy.com/vim-cheat-sheet/)  
-  Cheat sheet des commandes utilisables sur l'éditeur VIM, un des éditeurs les plus utilisés pour le scripting Unix.
-
-- [Liste de commandes utilisables sous Linux](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)  
-  Cheat sheet des commandes utilisables sous Linux.
-
-- [Vidéo sur le scripting Unix dans un environnement mainframe](https://www.youtube.com/watch?v=9n_j7Zr6s6o)  
-  Cette vidéo explique comment utiliser les scripts Unix pour automatiser des tâches sur z/OS.
-
-- [Cours d'instroduction aux commandes Linux et Scripting : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529306-initiez-vous-au-shell-linterpreteur-de-commandes)  
-  Cours + Exercices sur divers sujets autour de Linux / Scripting : OpenClassRoom.
 
 ---
 
