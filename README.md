@@ -76,6 +76,9 @@ Le **Job Control Language (JCL)** est utilisé pour contrôler l'exécution des 
 - [Vidéo : Introduction au JCL](https://www.youtube.com/watch?v=4TuJKUQmQkc)  
   Une vidéo d'introduction qui explique la syntaxe de base du JCL et son utilisation dans un environnement mainframe.
 
+- [Vidéo : Cours complet (Anglais) sur le JCL en environnement mainframe](https://www.youtube.com/watch?v=bSdNNDscccg)
+  Cours complet sous forme de plusieurs vidéos.
+
 ---
 
 ## Gestion des Traitements Batch et Transactionnels
@@ -110,6 +113,9 @@ Le **scripting** sous Unix et Windows est également une compétence clé. Le sc
 - [Vidéo sur le scripting Unix dans un environnement mainframe](https://www.youtube.com/watch?v=9n_j7Zr6s6o)  
   Cette vidéo explique comment utiliser les scripts Unix pour automatiser des tâches sur z/OS.
 
+- [Cours d'instroduction aux commandes Linux et Scripting : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529306-initiez-vous-au-shell-linterpreteur-de-commandes)
+  Cours + Exercices sur divers sujets autour de Linux / Scripting : OpenClassRoom.
+  
 ---
 
 ## Ordonnancement avec TWS (Tivoli Workload Scheduler)
@@ -134,6 +140,9 @@ L'**ordonnancement** des tâches est crucial pour la gestion des charges de trav
 ### Bases de Données IMS et DB2
 
 Les bases de données **IMS** et **DB2** sont essentielles pour la gestion des données sur un mainframe. Vous trouverez ici des ressources pour comprendre leur structure et leur utilisation.
+
+- [Guide d'installation IMS & DB2](https://www.bing.com/videos/riverview/relatedvideo?&q=IMS+DB2+cours+&&mid=7BA822752BA59A4A158C7BA822752BA59A4A158C&mmscn=mtsc&aps=11&FORM=VRDGAR)
+  Tutoriel d'installation IMS et DB2 sur Windows.
 
 - [Documentation sur IMS (Information Management System)](https://www.ibm.com/docs/en/ims)  
   Un guide complet sur le système de gestion de bases de données IMS.
