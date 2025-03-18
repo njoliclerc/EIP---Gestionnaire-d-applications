@@ -139,6 +139,9 @@ L'**ordonnancement** des tâches est crucial pour la gestion des charges de trav
 - [Vidéo : Introduction à l'ordonnancement avec TWS](https://www.youtube.com/watch?v=78EvbqxwyRA)  
   Une vidéo introductive pour comprendre le fonctionnement et la gestion des tâches avec TWS.
 
+- [Guide utilisateur](https://www.princeton.edu/~campcomd/tivoli/gc32-0423-00.pdf)
+  Guide utilisateur complet de TWS.
+
 ---
 
 ## Bases de Données IMS et DB2
