@@ -26,8 +26,8 @@ Le **scripting** sous Unix et Windows est également une compétence clé. Le sc
 - [Liste de commandes utilisables sous Linux](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)  
   Cheat sheet des commandes utilisables sous Linux.
 
-- [Vidéo sur le scripting Unix dans un environnement mainframe](https://www.youtube.com/watch?v=9n_j7Zr6s6o)  
-  Cette vidéo explique comment utiliser les scripts Unix pour automatiser des tâches sur z/OS.
+- [Vidéo: Cours sur le scripting Bash](https://www.youtube.com/watch?v=e7BufAVwDiM)  
+  Cette vidéo explique comment utiliser les scripts Bash.
 
 - [Cours d'instroduction aux commandes Linux et Scripting : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529306-initiez-vous-au-shell-linterpreteur-de-commandes)  
   Cours + Exercices sur divers sujets autour de Linux / Scripting : OpenClassRoom.
