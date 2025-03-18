@@ -14,7 +14,7 @@ Les ressources sont organisées par catégories afin de faciliter la navigation.
 
 Le **scripting** sous Unix et Windows est également une compétence clé. Le scripting permet d'automatiser des tâches et de gérer les fichiers dans un environnement mainframe.
 
-- [Introduction au Scripting Unix sous z/OS](https://www.ibm.com/docs/en/zos/2.5.0?topic=scripting)  
+- [Introduction au Scripting Unix sous z/OS](https://www.ibm.com/docs/en/zos/2.5.0?topic=zos-unix-system-services)  
   La documentation pour vous initier au scripting Unix dans un environnement mainframe.
 
 - [Documentation sur PowerShell et scripts DOS pour mainframe](https://docs.microsoft.com/en-us/powershell/)  
