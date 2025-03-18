@@ -147,7 +147,7 @@ Les traitements **batch** et **transactionnels** sont des processus fondamentaux
 
 Les bases de données **IMS** et **DB2** sont essentielles pour la gestion des données sur un mainframe. Vous trouverez ici des ressources pour comprendre leur structure et leur utilisation.
 
-- [Guide d'installation IMS & DB2](https://www.youtube.com/watch?v=4hMGzhIQS7k)) 
+- [Guide d'installation IMS & DB2](https://www.youtube.com/watch?v=4hMGzhIQS7k)  
   Tutoriel d'installation IMS et DB2 sur Windows.
 
 - [Documentation sur IMS (Information Management System)](https://www.ibm.com/docs/en/ims)  
