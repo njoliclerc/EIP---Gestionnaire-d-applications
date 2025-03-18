@@ -130,16 +130,13 @@ Le **scripting** sous Unix et Windows est également une compétence clé. Le sc
 
 L'**ordonnancement** des tâches est crucial pour la gestion des charges de travail sur un mainframe. TWS est l'outil de choix pour cette tâche.
 
-- [Documentation officielle TWS](https://www.ibm.com/docs/en/tws)  
+- [Documentation officielle TWS](https://www.ibm.com/docs/en/workload-automation/9.2.0)  
   Un guide complet pour apprendre à utiliser Tivoli Workload Scheduler (TWS).
-
-- [Tutoriel sur l'ordonnancement des tâches avec TWS](https://www.ibm.com/docs/en/tws/8.6)  
-  Ce tutoriel vous montre comment configurer et gérer des tâches avec TWS sur z/OS.
 
 - [Vidéo : Introduction à l'ordonnancement avec TWS](https://www.youtube.com/watch?v=78EvbqxwyRA)  
   Une vidéo introductive pour comprendre le fonctionnement et la gestion des tâches avec TWS.
 
-- [Guide utilisateur](https://www.princeton.edu/~campcomd/tivoli/gc32-0423-00.pdf)
+- [Guide utilisateur](https://www.princeton.edu/~campcomd/tivoli/gc32-0423-00.pdf)  
   Guide utilisateur complet de TWS.
 
 ---
