@@ -29,6 +29,9 @@ Le **scripting** sous Unix et Windows est également une compétence clé. Le sc
 - [Vidéo: Cours sur le scripting Bash](https://www.youtube.com/watch?v=e7BufAVwDiM)  
   Cette vidéo explique comment utiliser les scripts Bash.
 
+- [Vidéo: Cours sur le scripting Powershell](https://www.youtube.com/watch?v=ZOoCaWyifmI)  
+  Cette vidéo explique comment utiliser les scripts Bash.  
+
 - [Cours d'instroduction aux commandes Linux et Scripting : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529306-initiez-vous-au-shell-linterpreteur-de-commandes)  
   Cours + Exercices sur divers sujets autour de Linux / Scripting : OpenClassRoom.
 
