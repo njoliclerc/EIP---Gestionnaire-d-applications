@@ -20,7 +20,7 @@ z/OS est un système d'exploitation puissant et central pour les environnements 
 - [Vidéo d'introduction à z/OS](https://www.youtube.com/watch?v=7-9cOM5fpQ0)  
   Une vidéo introductive qui présente les bases de z/OS et ses fonctionnalités essentielles pour les gestionnaires d'applications.
   
-- [Utilisation d'IBM Developer pour z/OS](https://www.ibm.com/docs/fr/adffz5/developer-for-zos/15.0)
+- [Utilisation d'IBM Developer pour z/OS](https://www.ibm.com/docs/fr/adffz5/developer-for-zos/15.0)   
   Accédez à la documentation complète d'IBM sur z/OS pour une compréhension approfondie de l'ensemble d'outil IBM Developer.
 ---
 
@@ -38,6 +38,9 @@ MVS est un sous-système essentiel de z/OS, et il est crucial de comprendre son 
 
 - [Vidéo : Introduction aux systèmes MVS](https://www.youtube.com/watch?v=72Bo7I_GUTo)  
   Une vidéo pour comprendre les concepts de MVS et son impact sur les traitements mainframe.
+
+- [Vidéo : Introduction aux systèmes MVS](https://www.youtube.com/watch?v=YA3FQOzr0ag)   
+  Une vidéo concrète sous forme de TP.
 
 ---
 
