@@ -133,8 +133,8 @@ L'**ordonnancement** des tâches est crucial pour la gestion des charges de trav
 - [Documentation officielle TWS](https://www.ibm.com/docs/en/workload-automation/9.2.0)  
   Un guide complet pour apprendre à utiliser Tivoli Workload Scheduler (TWS).
 
-- [Vidéo : Introduction à l'ordonnancement avec TWS](https://www.youtube.com/watch?v=78EvbqxwyRA)  
-  Une vidéo introductive pour comprendre le fonctionnement et la gestion des tâches avec TWS.
+- [Série de vidéo : Ordonnancement avec TWS](https://www.youtube.com/watch?v=gA6uogw9yX0&list=PLZ87gBR2Z805Eyip2v0EUxSQjSZKTAkIB)  
+  Une série de vidéo introductive pour comprendre le fonctionnement et la gestion des tâches avec TWS.
 
 - [Guide utilisateur](https://www.princeton.edu/~campcomd/tivoli/gc32-0423-00.pdf)  
   Guide utilisateur complet de TWS.
