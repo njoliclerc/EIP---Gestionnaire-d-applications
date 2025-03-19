@@ -40,7 +40,7 @@ Le **scripting** sous Unix et Windows est également une compétence clé. Le sc
 
 ---
 
-Ces près-requis sont necessaire pour bien appréhender un environnement mainframe, à ne pas négliger. 
+Ces près-requis sont nécessaires pour bien appréhender un environnement mainframe, à ne pas négliger. 
 
 ## FORMATION : ressources z/OS
 
