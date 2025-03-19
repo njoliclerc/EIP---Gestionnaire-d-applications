@@ -32,12 +32,17 @@ Le **scripting** sous Unix et Windows est également une compétence clé. Le sc
 - [Vidéo: Cours sur le scripting Powershell](https://www.youtube.com/watch?v=ZOoCaWyifmI)  
   Cette vidéo explique comment utiliser les scripts Bash.  
 
-- [Cours d'instroduction aux commandes Linux et Scripting : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529306-initiez-vous-au-shell-linterpreteur-de-commandes)  
+- [Cours d'introduction aux commandes Linux et Scripting : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529306-initiez-vous-au-shell-linterpreteur-de-commandes)  
   Cours + Exercices sur divers sujets autour de Linux / Scripting : OpenClassRoom.
+
+- [Cours d'instroduction administration Linux : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-)
+  Cours + exercice orientés Administration système Linux
 
 ---
 
-## Ressources pour z/OS
+Ces près-requis sont necessaire pour bien appréhender un environnement mainframe, à ne pas négliger. 
+
+## FORMATION : ressources z/OS
 
 ### Qu'est-ce que z/OS ?
 
