@@ -1,6 +1,6 @@
 # Plateforme de Formation - Gestionnaire d'Application Mainframe
 
-## Introduction
+## Introduction  
 
 Cette plateforme de formation est dédiée aux **gestionnaires d'application** travaillant dans un environnement **mainframe**. L'objectif est de fournir une **série de ressources**, y compris des **liens vers des documentations**, des **vidéos**, et des **tutoriels** pour vous aider à comprendre et à maîtriser les principaux outils et concepts utilisés dans cet environnement technique. 
 
