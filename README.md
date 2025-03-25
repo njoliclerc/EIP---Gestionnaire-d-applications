@@ -55,7 +55,7 @@ Le Gestionnaire d’Application (GA) est responsable du bon fonctionnement des a
 
 ---
 
-📌 Vous pouvez maintenant parcourir les différentes sections techniques de ce repository pour approfondir les sujets liés à l’environnement mainframe.
+📌 Vous pouvez maintenant parcourir les différentes pratiques et technologies pour vous préparer au poste de Gestionnaire d'Application dans un environnement mainframe.
 
 ---
 
