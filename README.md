@@ -44,17 +44,20 @@ Elle permet de sécuriser les changements avant leur bascule en prod.
 
 ### ❓ C’est quoi le métier de GA (Gestionnaire d’Application) ?
 
-Le **Gestionnaire d’Application** est le point de contact opérationnel entre les applications, l’infra, et les métiers.  
-Il est responsable du **suivi des traitements**, de la **gestion des incidents**, de **l’ordonnancement**, de **l’automatisation**, de **la supervision** et de la **coordination technique**.  
-Son rôle est essentiel pour **garantir la stabilité, la performance et la continuité de service**.
+Le Gestionnaire d’Application (GA) est responsable du bon fonctionnement des applications en environnement de production. Son rôle est à la fois **technique**, **opérationnel** et **transverse**. Ses principales missions incluent :
+
+- **Intégrer les traitements** dans les outils de **supervision** et d’**ordonnancement**
+- **Effectuer les livraisons** en environnement de **recette**, puis en **production** (MEP – mise en production)
+- **Rédiger la documentation** liée au fonctionnement des applications (**procédures d’exploitation**)
+- **Assurer la supervision** des applications et faire le lien avec les **équipes métiers** (**coordination technique**)
+- **Traiter les incidents** jusqu’à leur **résolution complète** (support **niveau 3**) et réaliser les **interventions techniques** nécessaires
+- **Optimiser, fiabiliser, automatiser et sécuriser** les traitements existants ainsi que leurs **performances**
 
 ---
 
 📌 Vous pouvez maintenant parcourir les différentes sections techniques de ce repository pour approfondir les sujets liés à l’environnement mainframe.
 
 ---
-
-
 
 
 ## Introduction  
