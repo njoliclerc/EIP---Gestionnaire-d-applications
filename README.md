@@ -1,5 +1,62 @@
 # Plateforme de Formation - Gestionnaire d'Application Mainframe
 
+## 🧭 Introduction
+
+Bienvenue sur cette plateforme de formation dédiée aux consultants intervenant sur des environnements **mainframe** dans le cadre de missions d’**exploitation** ou de **gestion d’applications** (GA).  
+Avant de plonger dans les outils et technologies, il est essentiel de comprendre **le contexte**, **les enjeux métiers**, et **les spécificités techniques** liés à ce type d’environnement. Cette section répond aux principales questions que vous devez maîtriser pour prendre de la hauteur dès le début de votre mission.
+
+---
+
+### ❓ C’est quoi l’exploitation ?
+
+L’**exploitation** regroupe toutes les activités de **gestion quotidienne** du système d’information : lancement des traitements batch, supervision, remontée d’alertes, gestion des incidents, interventions planifiées, automatisation, etc.  
+Son objectif est d’**assurer la disponibilité, la performance et la fiabilité** des applications utilisées en production.
+
+---
+
+### ❓ C’est quoi la production ?
+
+La **production** est l’environnement **réel et actif** où s’exécutent les applications utilisées par les utilisateurs finaux (équipes métiers ou clients).  
+C’est un environnement **critique**, où chaque action a des conséquences directes. Toute modification y est donc encadrée, validée et traçable.
+
+---
+
+### ❓ Pourquoi ces technologies (z/OS, JCL, DB2, etc.) ?
+
+Les technologies **mainframe** sont utilisées car elles offrent une **fiabilité, une performance et une robustesse** inégalées pour les traitements de masse.  
+Elles sont au cœur des systèmes critiques de grandes entreprises (banque, assurance, énergie, etc.), avec des outils comme **z/OS** (OS IBM), **JCL** (langage de lancement de job), **TWS** (ordonnancement), **IMS/DB2** (bases de données), etc.
+
+---
+
+### ❓ C’est quoi un environnement de production ?
+
+Il s’agit de l’environnement dans lequel tournent les **versions validées des applications**, utilisées au quotidien.  
+Il est soumis à des exigences fortes de **continuité de service**, de **sécurité** et de **suivi opérationnel**.
+
+---
+
+### ❓ Et la préproduction ?
+
+La **préproduction** est une **copie quasi-identique de la production**, utilisée pour **tester les évolutions**, les correctifs ou les nouvelles mises en production.  
+Elle permet de sécuriser les changements avant leur bascule en prod.
+
+---
+
+### ❓ C’est quoi le métier de GA (Gestionnaire d’Application) ?
+
+Le **Gestionnaire d’Application** est le point de contact opérationnel entre les applications, l’infra, et les métiers.  
+Il est responsable du **suivi des traitements**, de la **gestion des incidents**, de **l’ordonnancement**, de **l’automatisation**, de **la supervision** et de la **coordination technique**.  
+Son rôle est essentiel pour **garantir la stabilité, la performance et la continuité de service**.
+
+---
+
+📌 Vous pouvez maintenant parcourir les différentes sections techniques de ce repository pour approfondir les sujets liés à l’environnement mainframe.
+
+---
+
+
+
+
 ## Introduction  
 
 Cette plateforme de formation est dédiée aux **gestionnaires d'application** travaillant dans un environnement **mainframe**. L'objectif est de fournir une **série de ressources**, y compris des **liens vers des documentations**, des **vidéos**, et des **tutoriels** pour vous aider à comprendre et à maîtriser les principaux outils et concepts utilisés dans cet environnement technique. 
