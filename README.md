@@ -12,11 +12,11 @@ Tout d'abord, une petite vidéo de deux minutes sur la question suivante : pourq
 
 ---
 
-### ❓ C’est quoi une infrastructure informatique ?
+## ❓ C’est quoi une infrastructure informatique ?
 
 - https://blog.pleo.io/fr/infrastructure-informatique#section-5 
 
-### ❓ C’est quoi l’exploitation ?
+## ❓ C’est quoi l’exploitation ?
 
 L’**exploitation** regroupe toutes les activités de **gestion quotidienne** du système d’information : lancement des traitements batch, supervision, remontée d’alertes, gestion des incidents, interventions planifiées, automatisation, etc.  
 Son objectif est d’**assurer la disponibilité, la performance et la fiabilité** des applications utilisées en production. Quelques notions de bases : 
@@ -26,7 +26,7 @@ Qu'est ce qu'un système d'exploitation, autrement appelé OS (operating system)
 
 ---
 
-### ❓ C’est quoi la production ?
+## ❓ C’est quoi la production ?
 
 La **production** est l’environnement **réel et actif** où s’exécutent les applications utilisées par les utilisateurs finaux (équipes métiers ou clients).  
 C’est un environnement **critique**, où chaque action a des conséquences directes. Toute modification y est donc encadrée, validée et traçable.
@@ -35,27 +35,27 @@ Un ingénieur de production informatique joue un rôle essentiel dans la gestion
 
 ---
 
-### ❓ Mais alors quelle est la différence entre l'exploitation et la production ?
+## ❓ Mais alors quelle est la différence entre l'exploitation et la production ?
 
 La production informatique regroupe l'ensemble des méthodes et compétences nécessaires pour maintenir une infrastructure opérationnelle, son but est de garantir que l'infrastructure pourra supporter toutes les opérations d'exploitation.
 A l'inverse, l'exploitation informatique consiste à exploiter, à utiliser cette infrastructure matérielle ou logicielle - à travers des applications typiquement - et de manière à répondre aux besoins des utilisateurs finaux (création de compte de messagerie par exemple).
 
 ---
 
-### ❓ Pourquoi ces technologies (z/OS, JCL, DB2, etc.) ?
+## ❓ Pourquoi ces technologies (z/OS, JCL, DB2, etc.) ?
 
 Les technologies **mainframe** sont utilisées car elles offrent une **fiabilité, une performance et une robustesse** inégalées pour les traitements de masse.  
 Elles sont au cœur des systèmes critiques de grandes entreprises (banque, assurance, énergie, etc.), avec des outils comme **z/OS** (OS IBM), **JCL** (langage de lancement de job), **TWS** (ordonnancement), **IMS/DB2** (bases de données), etc.
 
 ---
-### ❓ Explication des différents environnements 
+## ❓ Explication des différents environnements 
 
-## ❓ C'est quoi un environnement de préproduction ?
+### ❓ C'est quoi un environnement de préproduction ?
 
 La **préproduction** est une **copie quasi-identique de la production**, utilisée pour **tester les évolutions**, les correctifs ou les nouvelles mises en production.  
 Elle permet de sécuriser les changements avant leur bascule en prod.
 
-## ❓ C’est quoi un environnement de production ?
+### ❓ C’est quoi un environnement de production ?
 
 Il s’agit de l’environnement dans lequel tournent les **versions validées des applications**, utilisées au quotidien.  
 Il est soumis à des exigences fortes de **continuité de service**, de **sécurité** et de **suivi opérationnel**.
@@ -64,7 +64,7 @@ Il est soumis à des exigences fortes de **continuité de service**, de **sécur
 
 ---
 
-### ❓ C’est quoi le métier de GA (Gestionnaire d’Application) ?
+## ❓ C’est quoi le métier de GA (Gestionnaire d’Application) ?
 
 Le Gestionnaire d’Application (GA) est responsable du bon fonctionnement des applications en environnement de production. Son rôle est à la fois **technique**, **opérationnel** et **transverse**. Ses principales missions incluent :
 
