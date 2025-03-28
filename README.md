@@ -48,19 +48,19 @@ Les technologies **mainframe** sont utilisées car elles offrent une **fiabilit�
 Elles sont au cœur des systèmes critiques de grandes entreprises (banque, assurance, énergie, etc.), avec des outils comme **z/OS** (OS IBM), **JCL** (langage de lancement de job), **TWS** (ordonnancement), **IMS/DB2** (bases de données), etc.
 
 ---
+### ❓ Explication des différents environnements 
 
-### ❓ C’est quoi un environnement de production ?
-
-Il s’agit de l’environnement dans lequel tournent les **versions validées des applications**, utilisées au quotidien.  
-Il est soumis à des exigences fortes de **continuité de service**, de **sécurité** et de **suivi opérationnel**.
-
-### ❓ Et la préproduction ?
+## ❓ C'est quoi un environnement de préproduction ?
 
 La **préproduction** est une **copie quasi-identique de la production**, utilisée pour **tester les évolutions**, les correctifs ou les nouvelles mises en production.  
 Elle permet de sécuriser les changements avant leur bascule en prod.
 
-![image](https://github.com/user-attachments/assets/151b0247-2aff-42c2-a31b-4efadafae8db)
+## ❓ C’est quoi un environnement de production ?
 
+Il s’agit de l’environnement dans lequel tournent les **versions validées des applications**, utilisées au quotidien.  
+Il est soumis à des exigences fortes de **continuité de service**, de **sécurité** et de **suivi opérationnel**.
+
+![image](https://github.com/user-attachments/assets/151b0247-2aff-42c2-a31b-4efadafae8db)
 
 ---
 
