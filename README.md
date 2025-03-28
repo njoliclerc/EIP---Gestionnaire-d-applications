@@ -4,7 +4,9 @@
 
 
 Bienvenue sur cette plateforme de formation dédiée aux consultants intervenant sur des environnements **mainframe** dans le cadre de missions d’**exploitation** ou de **gestion d’applications** (GA).  
-Avant de plonger dans les outils et technologies, il est essentiel de comprendre **le contexte**, **les enjeux métiers**, et **les spécificités techniques** liés à ce type d’environnement. Cette section répond aux principales questions que vous devez maîtriser pour prendre de la hauteur dès le début de votre mission.
+Avant de plonger dans les outils et technologies, il est essentiel de comprendre **le contexte**, **les enjeux métiers**, et **les spécificités techniques** liés à ce type d’environnement. Cette section répond aux principales questions que vous devez maîtriser pour prendre de la hauteur dès le début de votre mission. Tout d'abord, une petite vidéo de deux minutes sur la question suivante : pourquoi les entreprises utilisent aujourd'hui le grand système, autrement appelé "Mainframe" pour faire toruner leurs applications ? 
+
+- https://www.youtube.com/watch?v=T2ZHRW1a5hk
 
 ---
 
