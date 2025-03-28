@@ -32,7 +32,7 @@ C’est un environnement **critique**, où chaque action a des conséquences dir
 
 ---
 
-### ❓ Mais alors quelle est la différence entre la'exploitation et la production ?
+### ❓ Mais alors quelle est la différence entre l'exploitation et la production ?
 
 La production informatique regroupe l'ensemble des méthodes et compétences nécessaires pour maintenir une infrastructure opérationnelle, son but est de garantir que l'infrastructure pourra supporter toutes les opérations d'exploitation.
 A l'inverse, l'exploitation informatique consiste à exploiter, à utiliser cette infrastructure matérielle ou logicielle - à travers des applications typiquement - et de manière à répondre aux besoins des utilisateurs finaux (création de compte de messagerie par exemple).
