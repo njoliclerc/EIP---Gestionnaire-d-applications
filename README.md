@@ -50,6 +50,8 @@ Elles sont au cœur des systèmes critiques de grandes entreprises (banque, assu
 ---
 ## ❓ Explication des différents environnements 
 
+Focus sur les deux environnement qui nous intéressent : l'environnement de pré-production et l'environnement de production. 
+
 ### ❓ C'est quoi un environnement de préproduction ?
 
 La **préproduction** est une **copie quasi-identique de la production**, utilisée pour **tester les évolutions**, les correctifs ou les nouvelles mises en production.  
@@ -64,7 +66,7 @@ Il est soumis à des exigences fortes de **continuité de service**, de **sécur
 
 ---
 
-## ❓ C’est quoi le métier de GA (Gestionnaire d’Application) ?
+## ❓ Et maintement, c’est quoi le métier de GA (Gestionnaire d’Application) ?
 
 Le Gestionnaire d’Application (GA) est responsable du bon fonctionnement des applications en environnement de production. Son rôle est à la fois **technique**, **opérationnel** et **transverse**. Ses principales missions incluent :
 
