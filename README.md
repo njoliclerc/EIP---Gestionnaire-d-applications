@@ -8,7 +8,7 @@ Avant de plonger dans les outils et technologies, il est essentiel de comprendre
 Tout d'abord, une petite vidéo de deux minutes sur la question suivante : pourquoi les entreprises utilisent aujourd'hui le grand système, autrement appelé "Mainframe" pour faire tourner leurs applications ? 
 
 - https://www.youtube.com/watch?v=T2ZHRW1a5hk
-- - https://www.youtube.com/watch?v=rR-ixE5xxJc
+- https://www.youtube.com/watch?v=rR-ixE5xxJc
 
 ---
 
