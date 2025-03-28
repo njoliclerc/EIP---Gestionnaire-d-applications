@@ -8,6 +8,7 @@ Avant de plonger dans les outils et technologies, il est essentiel de comprendre
 Tout d'abord, une petite vidéo de deux minutes sur la question suivante : pourquoi les entreprises utilisent aujourd'hui le grand système, autrement appelé "Mainframe" pour faire tourner leurs applications ? 
 
 - https://www.youtube.com/watch?v=T2ZHRW1a5hk
+- - https://www.youtube.com/watch?v=rR-ixE5xxJc
 
 ---
 
@@ -29,6 +30,8 @@ Qu'est ce qu'un système d'exploitation, autrement appelé OS (operating system)
 
 La **production** est l’environnement **réel et actif** où s’exécutent les applications utilisées par les utilisateurs finaux (équipes métiers ou clients).  
 C’est un environnement **critique**, où chaque action a des conséquences directes. Toute modification y est donc encadrée, validée et traçable.
+
+Un ingénieur de production informatique joue un rôle essentiel dans la gestion et le bon fonctionnement des systèmes informatiques au sein d’une organisation. Leur travail consiste à garantir la disponibilité, la performance et la fiabilité des systèmes informatiques. Cela implique la surveillance constante, la gestion des pannes, et la mise en place de solutions pour optimiser les performances.
 
 ---
 
