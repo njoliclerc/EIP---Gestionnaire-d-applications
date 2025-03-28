@@ -94,7 +94,7 @@ Les ressources sont organisées par catégories afin de faciliter la navigation.
 
 ---
 
-## Prérequis: Scripting Unix et Windows sur Mainframe
+## Prérequis: Scripting Unix et Windows sur Mainframe - NICOLAS
 
 ### Le Scripting sous Unix et Windows
 
@@ -128,7 +128,7 @@ Le **scripting** sous Unix et Windows est également une compétence clé. Le sc
 
 Ces près-requis sont nécessaires pour bien appréhender un environnement mainframe, à ne pas négliger. 
 
-## FORMATION : ressources z/OS
+## FORMATION : ressources z/OS - NICOLAS
 
 ### Qu'est-ce que z/OS ?
 
@@ -144,7 +144,7 @@ z/OS est un système d'exploitation puissant et central pour les environnements 
   Accédez à la documentation complète d'IBM sur z/OS pour une compréhension approfondie de l'ensemble d'outil IBM Developer.
 ---
 
-## Ressources pour MVS et Gestion des Ressources
+## Ressources pour MVS et Gestion des Ressources - AURELIEN
 
 ### MVS : Multiple Virtual Storage
 
@@ -164,7 +164,7 @@ MVS est un sous-système essentiel de z/OS, et il est crucial de comprendre son 
 
 ---
 
-## Accès aux Données : VSAM, Séquentielle, Partitionnée
+## Accès aux Données : VSAM, Séquentielle, Partitionnée - NICOLAS
 
 ### Accès aux données sur z/OS
 
@@ -181,7 +181,7 @@ Les méthodes d'accès aux données telles que **VSAM** et l'accès **séquentie
 
 ---
 
-## JCL : Job Control Language
+## JCL : Job Control Language - AURELIEN
 
 ### Qu'est-ce que le JCL ?
 
@@ -201,7 +201,7 @@ Le **Job Control Language (JCL)** est utilisé pour contrôler l'exécution des 
   
 ---
 
-## Ordonnancement avec TWS (Tivoli Workload Scheduler)
+## Ordonnancement avec TWS (Tivoli Workload Scheduler) - AURELIEN
 
 ### Ordonnancement des tâches avec TWS
 
@@ -218,7 +218,7 @@ L'**ordonnancement** des tâches est crucial pour la gestion des charges de trav
 
 ---
 
-## Gestion des Traitements Batch et Transactionnels
+## Gestion des Traitements Batch et Transactionnels - AURELIEN
 
 ### Les Traitements Batch
 
@@ -235,7 +235,7 @@ Les traitements **batch** et **transactionnels** sont des processus fondamentaux
 
 ---
 
-## Bases de Données IMS et DB2
+## Bases de Données IMS et DB2 - NICOLAS
 
 ### Bases de Données IMS et DB2
 
