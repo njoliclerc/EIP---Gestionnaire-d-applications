@@ -4,16 +4,25 @@
 
 
 Bienvenue sur cette plateforme de formation dédiée aux consultants intervenant sur des environnements **mainframe** dans le cadre de missions d’**exploitation** ou de **gestion d’applications** (GA).  
-Avant de plonger dans les outils et technologies, il est essentiel de comprendre **le contexte**, **les enjeux métiers**, et **les spécificités techniques** liés à ce type d’environnement. Cette section répond aux principales questions que vous devez maîtriser pour prendre de la hauteur dès le début de votre mission. Tout d'abord, une petite vidéo de deux minutes sur la question suivante : pourquoi les entreprises utilisent aujourd'hui le grand système, autrement appelé "Mainframe" pour faire toruner leurs applications ? 
+Avant de plonger dans les outils et technologies, il est essentiel de comprendre **le contexte**, **les enjeux métiers**, et **les spécificités techniques** liés à ce type d’environnement. Cette section répond aux principales questions que vous devez maîtriser pour prendre de la hauteur dès le début de votre mission. 
+
+Tout d'abord, une petite vidéo de deux minutes sur la question suivante : pourquoi les entreprises utilisent aujourd'hui le grand système, autrement appelé "Mainframe" pour faire toruner leurs applications ? 
 
 - https://www.youtube.com/watch?v=T2ZHRW1a5hk
 
 ---
 
+### ❓ C’est quoi une infrastructure informatique ?
+
+- https://blog.pleo.io/fr/infrastructure-informatique#section-5 
+
 ### ❓ C’est quoi l’exploitation ?
 
 L’**exploitation** regroupe toutes les activités de **gestion quotidienne** du système d’information : lancement des traitements batch, supervision, remontée d’alertes, gestion des incidents, interventions planifiées, automatisation, etc.  
-Son objectif est d’**assurer la disponibilité, la performance et la fiabilité** des applications utilisées en production.
+Son objectif est d’**assurer la disponibilité, la performance et la fiabilité** des applications utilisées en production. Quelques notions de bases : 
+
+Qu'est ce qu'un système d'exploitation, autrement appelé OS (operating system) ?
+- https://www.youtube.com/watch?v=AcZ87MTiXr4
 
 ---
 
@@ -21,6 +30,13 @@ Son objectif est d’**assurer la disponibilité, la performance et la fiabilit�
 
 La **production** est l’environnement **réel et actif** où s’exécutent les applications utilisées par les utilisateurs finaux (équipes métiers ou clients).  
 C’est un environnement **critique**, où chaque action a des conséquences directes. Toute modification y est donc encadrée, validée et traçable.
+
+---
+
+### ❓ Mais alors quelle est la différence entre la'exploitation et la production ?
+
+La production informatique regroupe l'ensemble des méthodes et compétences nécessaires pour maintenir une infrastructure opérationnelle, son but est de garantir que l'infrastructure pourra supporter toutes les opérations d'exploitation.
+A l'inverse, l'exploitation informatique consiste à exploiter, à utiliser cette infrastructure matérielle ou logicielle - à travers des applications typiquement - et de manière à répondre aux besoins des utilisateurs finaux (création de compte de messagerie par exemple).
 
 ---
 
