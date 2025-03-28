@@ -71,7 +71,9 @@ Il est soumis à des exigences fortes de **continuité de service**, de **sécur
 Le Gestionnaire d’Application (GA) est responsable du bon fonctionnement des applications en environnement de production. Son rôle est à la fois **technique**, **opérationnel** et **transverse**. Ses principales missions incluent :
 
 - **Intégrer les traitements** dans les outils de [**supervision**](https://www.les-innovations-pour-toi.com/actu/5/que-savoir-sur-la-supervision-informatique), de **plannification** et d’**ordonnancement**
-  ![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/a9a56689-c44a-4b87-a68b-38ad326a1b34)
+
 
 - **Effectuer les livraisons** en environnement de **recette**, puis en **production** (MEP – mise en production)
 - **Rédiger la documentation** liée au fonctionnement des applications (**procédures d’exploitation**)
