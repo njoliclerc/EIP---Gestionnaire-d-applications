@@ -94,7 +94,7 @@ Les ressources sont organisées par catégories afin de faciliter la navigation.
 
 ---
 
-## Prérequis: Scripting Unix et Windows sur Mainframe - NICOLAS
+## Prérequis: Scripting Unix et Windows sur Mainframe - Raphaël
 
 ### Le Scripting sous Unix et Windows
 
@@ -128,7 +128,7 @@ Le **scripting** sous Unix et Windows est également une compétence clé. Le sc
 
 Ces près-requis sont nécessaires pour bien appréhender un environnement mainframe, à ne pas négliger. 
 
-## FORMATION : ressources z/OS - NICOLAS
+## FORMATION : ressources z/OS - Raphaël
 
 ### Qu'est-ce que z/OS ?
 
@@ -164,7 +164,7 @@ MVS est un sous-système essentiel de z/OS, et il est crucial de comprendre son 
 
 ---
 
-## Accès aux Données : VSAM, Séquentielle, Partitionnée - NICOLAS
+## Accès aux Données : VSAM, Séquentielle, Partitionnée - Raphaël
 
 ### Accès aux données sur z/OS
 
@@ -235,7 +235,7 @@ Les traitements **batch** et **transactionnels** sont des processus fondamentaux
 
 ---
 
-## Bases de Données IMS et DB2 - NICOLAS
+## Bases de Données IMS et DB2 - Raphaël
 
 ### Bases de Données IMS et DB2
 
