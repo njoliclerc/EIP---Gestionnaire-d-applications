@@ -185,19 +185,27 @@ Les méthodes d'accès aux données telles que **VSAM** et l'accès **séquentie
 
 ### Qu'est-ce que le JCL ?
 
-Le **Job Control Language (JCL)** est utilisé pour contrôler l'exécution des programmes et des tâches dans un environnement mainframe. Il est essentiel de comprendre sa syntaxe et ses composants pour optimiser les traitements.
+Le **JCL (Job Control Language)** est un langage utilisé dans les environnements mainframe IBM pour gérer et exécuter des tâches (jobs). Il sert d’interface entre l’utilisateur et le système d’exploitation z/OS, permettant de soumettre, contrôler et organiser l’exécution de programmes et de traitements batch.
 
-- [Documentation complète sur JCL](https://www.ibm.com/docs/en/zos/2.4.0?topic=jcl)  
-  Un guide complet pour maîtriser la syntaxe et les commandes JCL.
+**Pourquoi le JCL est-il important ?**
+Les mainframes sont utilisés par de nombreuses grandes entreprises (banques, assurances, industries) pour traiter d’énormes volumes de données. Le JCL permet d’automatiser ces traitements de manière efficace et sécurisée.
 
-- [Tutoriel sur les commandes JCL](https://www.ibm.com/docs/en/zos/2.3.0?topic=jcl-tutorial)  
-  Un tutoriel pour vous initier à l'utilisation de JCL et comprendre ses principaux éléments.
+- [Vidéos introduction a JCL](https://www.youtube.com/watch?v=4eZODpPUy_g&list=PLYCbBREygUWR9eCUgHcP6jp_0AX_vBBoM)
 
-- [Vidéo : Introduction au JCL](https://www.youtube.com/watch?v=4TuJKUQmQkc)  
-  Une vidéo d'introduction qui explique la syntaxe de base du JCL et son utilisation dans un environnement mainframe.
+- [Cours (Vidéos) de base](https://www.youtube.com/watch?v=pemN0qJrmzE&list=PLLcYGaQ7eeuTQGWRJ_B04qPowNWuHHfaz)
 
-- [Vidéo : Cours complet (Anglais) sur le JCL en environnement mainframe](https://www.youtube.com/watch?v=bSdNNDscccg)  
-  Cours complet sous forme de plusieurs vidéos.
+- [Cours de débutant à avancé](https://www.youtube.com/playlist?list=PL6HD6MMTq7le8nnKdLO2wz5KCvHI8yJfG)
+
+- [Cours complet](https://www.ibmmainframer.com/jcl-tutorial/#main)
+
+- [Exemples JCL](https://www.ibmmainframer.com/reference/jcl-example-sample-reference-code)
+
+- [Commandes JCL](https://www.ibm.com/docs/en/zos/2.4.0?topic=statements-jcl)
+
+- [Quizz JCL](https://www.ibmmainframer.com/mainframe/mainframe-quiz/jcl-quiz-mcq-online-test/)
+
+- [Documentation JCL](https://www.ibm.com/docs/en/zos/2.4.0?topic=mvs-zos-jcl-users-guide)
+- Documentation oficielle d'IBM
   
 ---
 
