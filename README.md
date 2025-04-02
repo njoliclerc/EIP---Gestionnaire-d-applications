@@ -212,16 +212,35 @@ Les mainframes sont utilisés par de nombreuses grandes entreprises (banques, as
 
 ### Ordonnancement des tâches avec TWS
 
-L'**ordonnancement** des tâches est crucial pour la gestion des charges de travail sur un mainframe. TWS est l'outil de choix pour cette tâche.
+Le **Tivoli Workload Scheduler (TWS)**, développé par IBM, est une solution d'ordonnancement et d'automatisation des tâches qui permet de gérer efficacement les charges de travail au sein d'un environnement informatique. En automatisant les processus de production, TWS optimise l'exécution des tâches, réduit les interventions manuelles et améliore la fiabilité des opérations.
 
-- [Documentation officielle TWS](https://www.ibm.com/docs/en/workload-automation/9.2.0)  
-  Un guide complet pour apprendre à utiliser Tivoli Workload Scheduler (TWS).
+**Fonctionnalités principales de TWS :**
 
-- [Série de vidéo : Ordonnancement avec TWS](https://www.youtube.com/watch?v=gA6uogw9yX0&list=PLZ87gBR2Z805Eyip2v0EUxSQjSZKTAkIB)  
-  Une série de vidéo introductive pour comprendre le fonctionnement et la gestion des tâches avec TWS.
+1- **Automatisation des tâches :** Planification et exécution automatiques des jobs en fonction de calendriers prédéfinis ou d'événements spécifiques.​
 
-- [Guide utilisateur](https://www.princeton.edu/~campcomd/tivoli/gc32-0423-00.pdf)  
-  Guide utilisateur complet de TWS.
+2- **Gestion des dépendances :** Coordination des tâches en tenant compte des interdépendances, garantissant ainsi une exécution séquentielle appropriée.​
+
+3- **Surveillance et suivi :** Supervision en temps réel des tâches en cours, avec des capacités de suivi et de reporting pour assurer la transparence des opérations.​
+
+4- **Flexibilité multiplateforme :** Compatibilité avec divers environnements, y compris z/OS, UNIX, Linux et Windows, facilitant l'intégration dans des infrastructures hétérogènes. ​
+
+En résumé, TWS est un outil puissant pour les entreprises cherchant à automatiser et optimiser leurs processus de production informatique, contribuant ainsi à une meilleure efficacité opérationnelle.
+
+- [Vidéo d'introduction à TWS](https://www.youtube.com/watch?v=mm9dpkDiPtA)
+
+- [Guide d'utilisation en Français](https://tnit.fr/guide-dutilisation-dadministration-planificateur-charge-travail-tivoli-installation-faq)
+
+- [Tutoriel d'IBM](https://www.ibm.com/docs/en/workload-automation/9.2.0?topic=tutorials-using-tivoli-workload-scheduler-tutorial-utility)
+
+Pour voir le principe et le fonctionnement d'un ordonnanceur Mainframe:
+- [Cours Ordonnanceur HCL (Vidéo)](https://www.youtube.com/watch?v=gA6uogw9yX0&list=PLZ87gBR2Z805Eyip2v0EUxSQjSZKTAkIB&index=2)
+
+- [HAWz Commandes](https://help.hcl-software.com/workloadautomation/v101/zos/src_wapl/c_wapl_core_commands.html)
+
+Pour aller plus loin: 
+- [Documentation d'IBM](https://www.ibm.com/docs/en/workload-automation/9.2.0)
+
+- [Guide utilisateur complet](gc32-0423-00.pdf)
 
 ---
 
@@ -229,16 +248,13 @@ L'**ordonnancement** des tâches est crucial pour la gestion des charges de trav
 
 ### Les Traitements Batch
 
-Les traitements **batch** et **transactionnels** sont des processus fondamentaux dans un environnement mainframe. La gestion de ces traitements via des outils comme **TWS** (Tivoli Workload Scheduler) est un aspect clé du rôle d'un gestionnaire d'application.
+Les systèmes mainframe z/OS sont conçus pour gérer efficacement des volumes massifs de **traitements batch et transactionnels**, essentiels pour les opérations critiques des grandes entreprises.​ Cela ce fait notamment avec l'ordonnanceur **TWS**.
+- **Traitements Batch :** Ces processus exécutent des tâches en masse sans intervention humaine, telles que la mise à jour de bases de données ou la génération de rapports, généralement planifiées à des moments spécifiques pour optimiser l'utilisation des ressources. ​
+- **Traitements Transactionnels :** Ces processus gèrent des opérations en temps réel, comme les transactions bancaires en ligne, en assurant la cohérence et la fiabilité des données. Sur z/OS, des sous-systèmes tels que CICS (Customer Information Control System) fournissent un environnement robuste pour le traitement transactionnel. 
 
-- [Guide sur les traitements batch sous z/OS](https://www.ibm.com/docs/en/zos/2.5.0?topic=batch)  
-  La documentation pour comprendre les traitements batch sous z/OS.
-
-- [Documentation sur CICS (Customer Information Control System)](https://www.ibm.com/docs/en/cics)  
-  CICS est un middleware essentiel pour le traitement transactionnel dans un environnement mainframe.
-
-- [Vidéo : Gestion des traitements batch avec TWS](https://www.youtube.com/watch?v=03f4WiJXZgA)  
-  Cette vidéo montre comment gérer les traitements batch à l'aide de l'ordonnanceur TWS.
+- [Introduction au Batch](https://www.youtube.com/watch?v=WlZbN_vs7us)
+	
+- [Tutoriel d'un outils de Transactions](https://www.mainframestechhelp.com/tutorials/cics/)
 
 ---
 
