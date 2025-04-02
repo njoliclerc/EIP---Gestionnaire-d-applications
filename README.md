@@ -204,6 +204,7 @@ Les mainframes sont utilisés par de nombreuses grandes entreprises (banques, as
 
 - [Quizz JCL](https://www.ibmmainframer.com/mainframe/mainframe-quiz/jcl-quiz-mcq-online-test/)
 
+Pour aller plus loin:
 - [Documentation complète JCL](https://www.ibm.com/docs/en/zos/2.4.0?topic=mvs-zos-jcl-users-guide)
   
 ---
@@ -232,16 +233,15 @@ En résumé, TWS est un outil puissant pour les entreprises cherchant à automat
 
 - [Tutoriel d'IBM](https://www.ibm.com/docs/en/workload-automation/9.2.0?topic=tutorials-using-tivoli-workload-scheduler-tutorial-utility)
 
-Pour voir le principe et le fonctionnement d'un ordonnanceur Mainframe:
-- [Cours Ordonnanceur HCL (Vidéo)](https://www.youtube.com/watch?v=gA6uogw9yX0&list=PLZ87gBR2Z805Eyip2v0EUxSQjSZKTAkIB&index=2)
-
-- [HAWz Commandes](https://help.hcl-software.com/workloadautomation/v101/zos/src_wapl/c_wapl_core_commands.html)
-
 Pour aller plus loin: 
 - [Documentation d'IBM](https://www.ibm.com/docs/en/workload-automation/9.2.0)
 
 - [Guide utilisateur complet](gc32-0423-00.pdf)
 
+Ordonnanceur HAWz de HCL basé sur Mainframe:
+- [Cours Ordonnanceur HCL (Vidéo)](https://www.youtube.com/watch?v=gA6uogw9yX0&list=PLZ87gBR2Z805Eyip2v0EUxSQjSZKTAkIB&index=2)
+
+- [HAWz Commandes](https://help.hcl-software.com/workloadautomation/v101/zos/src_wapl/c_wapl_core_commands.html)
 ---
 
 ## Gestion des Traitements Batch et Transactionnels - AURELIEN
