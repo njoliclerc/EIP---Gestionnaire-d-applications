@@ -236,7 +236,7 @@ En résumé, TWS est un outil puissant pour les entreprises cherchant à automat
 Pour aller plus loin: 
 - [Documentation d'IBM](https://www.ibm.com/docs/en/workload-automation/9.2.0)
 
-- [Guide utilisateur complet](gc32-0423-00.pdf)
+- [Guide utilisateur complet]([gc32-0423-00.pdf](https://github.com/njoliclerc/EIP---Gestionnaire-d-applications/blob/main/Guide%20d'utilisation%20complet%20TWS.pdf))
 
 Ordonnanceur HAWz de HCL basé sur Mainframe:
 - [Cours Ordonnanceur HCL (Vidéo)](https://www.youtube.com/watch?v=gA6uogw9yX0&list=PLZ87gBR2Z805Eyip2v0EUxSQjSZKTAkIB&index=2)
