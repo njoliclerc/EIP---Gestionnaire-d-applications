@@ -148,19 +148,24 @@ z/OS est un système d'exploitation puissant et central pour les environnements 
 
 ### MVS : Multiple Virtual Storage
 
-MVS est un sous-système essentiel de z/OS, et il est crucial de comprendre son rôle dans la gestion des ressources système.
+**MVS (Multiple Virtual Storage)** est un sous-système de Z/OS, utilisé principalement sur les grands ordinateurs (mainframes), qui permet de gérer efficacement les ressources matérielles et logicielles de manière virtuelle. Il a été développé par IBM et est une partie centrale de l’architecture des systèmes mainframe. MVS a été conçu pour exécuter de multiples applications simultanément tout en maximisant l’utilisation des ressources du système, telles que la mémoire et les processeurs.
+L'un des concepts clés de MVS est la gestion de la mémoire virtuelle, ce qui permet à chaque programme d'avoir l'impression d’avoir accès à toute la mémoire de l'ordinateur, même si la mémoire physique est limitée. Cela améliore l'efficacité, la flexibilité et la gestion des ressources.
 
-- [Documentation MVS par IBM](https://www.ibm.com/docs/en/zos/2.4.0?topic=mvs)  
-  Un guide détaillé sur MVS et ses fonctions dans l'environnement z/OS.
+**Principales caractéristiques de MVS :**
 
-- [Gestion des ressources dans MVS](https://www.ibm.com/docs/en/zos/2.3.0?topic=zos-mvs-overview)  
-  Documentation sur la gestion des ressources dans un environnement MVS.
+**1. Virtualisation de la mémoire :** Chaque utilisateur ou programme a une vue séparée de la mémoire, ce qui permet une gestion plus souple et un meilleur isolement des processus.
 
-- [Vidéo : Introduction aux systèmes MVS](https://www.youtube.com/watch?v=72Bo7I_GUTo)  
-  Une vidéo pour comprendre les concepts de MVS et son impact sur les traitements mainframe.
+**2. Multiprogrammation et multitâche :** MVS permet l'exécution simultanée de plusieurs applications, ce qui améliore l'efficacité des ressources.
 
-- [Vidéo : Introduction aux systèmes MVS](https://www.youtube.com/watch?v=YA3FQOzr0ag)   
-  Une vidéo concrète sous forme de TP.
+**3. Systèmes de fichiers :** MVS utilise des systèmes de fichiers complexes qui permettent d’organiser et de stocker les données de manière fiable.
+
+**4. Système de gestion des tâches :** Il offre un gestionnaire de tâches très performant qui permet de planifier et d'exécuter des programmes de manière ordonnée.
+
+- [Cours (Vidéo)](https://www.youtube.com/watch?v=TRwXKWQ2i00)
+
+- [Cours / TP (Vidéo)](https://www.youtube.com/watch?v=YA3FQOzr0ag)
+
+- Pour aller plus loin: [Documentation MVS d'IBM](https://www.ibm.com/docs/en/zos/2.4.0)
 
 ---
 
