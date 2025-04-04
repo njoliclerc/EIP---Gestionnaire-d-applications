@@ -96,33 +96,39 @@ Les ressources sont organisées par catégories afin de faciliter la navigation.
 
 ## Prérequis: Scripting Unix et Windows sur Mainframe - Raphaël
 
-### Le Scripting sous Unix et Windows
+### Qu'est-ce que le scripting Unix sur z/OS ?
 
-Le **scripting** sous Unix et Windows est également une compétence clé. Le scripting permet d'automatiser des tâches et de gérer les fichiers dans un environnement mainframe.
+Le **scripting Unix sur z/OS** permet d’**automatiser des tâches** courantes, comme la gestion de fichiers, le lancement de programmes ou l’affichage de messages.  
 
-- [Introduction au Scripting Unix sous z/OS](https://www.ibm.com/docs/en/zos/2.5.0?topic=zos-unix-system-services)  
-  La documentation pour vous initier au scripting Unix dans un environnement mainframe.
+Concrètement, cela consiste à **écrire une série de commandes** dans un fichier texte (appelé "script"), qui seront exécutées automatiquement, dans l’ordre, par un programme spécial qu’on appelle un **interpréteur de commandes** (comme `sh` ou `bash`).
 
-- [Documentation sur PowerShell et scripts DOS pour mainframe](https://docs.microsoft.com/en-us/powershell/)  
-  Des ressources pour utiliser PowerShell et DOS dans un environnement mainframe.
+Cela évite de retaper les mêmes commandes à la main tous les jours, et cela permet de gagner du temps, de limiter les erreurs, et de rendre les traitements plus efficaces.  
 
-- [Liste de commandes utilisables sur l'éditeur VIM](https://www.linuxtrainingacademy.com/vim-cheat-sheet/)  
-  Cheat sheet des commandes utilisables sur l'éditeur VIM, un des éditeurs les plus utilisés pour le scripting Unix.
+Par exemple, au lieu d’entrer manuellement plusieurs commandes pour copier des fichiers, changer leurs noms et les archiver, un **script peut tout faire d’un coup**.
 
-- [Liste de commandes utilisables sous Linux](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)  
-  Cheat sheet des commandes utilisables sous Linux.
+**Pourquoi est-ce utile ?**  
+L'automatisation avec des scripts simplifie la gestion des fichiers, l'exécution de programmes et le traitement des données, réduisant ainsi les tâches manuelles répétitives.
 
-- [Vidéo: Cours sur le scripting Bash](https://www.youtube.com/watch?v=e7BufAVwDiM)  
-  Cette vidéo explique comment utiliser les scripts Bash.
-
-- [Vidéo: Cours sur le scripting Powershell](https://www.youtube.com/watch?v=ZOoCaWyifmI)  
-  Cette vidéo explique comment utiliser les scripts Bash.  
+- [Vidéo introduction au bash Unix](https://youtu.be/wRswrO1SnB4)
 
 - [Cours d'introduction aux commandes Linux et Scripting : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-linux/7529306-initiez-vous-au-shell-linterpreteur-de-commandes)  
-  Cours + Exercices sur divers sujets autour de Linux / Scripting : OpenClassRoom.
 
 - [Cours d'instroduction administration Linux : Openclassroom](https://openclassrooms.com/fr/courses/7274161-administrez-un-systeme-)
-  Cours + exercice orientés Administration système Linux
+  
+- [Vidéo: Cours complet sur le scripting Bash](https://www.youtube.com/watch?v=e7BufAVwDiM)  
+
+Pour aller plus loin:
+
+- [Scripting Unix sous z/OS (Documentation IBM)](https://www.ibm.com/docs/en/zos/2.5.0?topic=services-emv-scripting-service-csnbesc-csneesc)  
+
+- [Liste de commandes utilisables sur l'éditeur VIM](https://www.linuxtrainingacademy.com/vim-cheat-sheet/)  
+
+Le **scripting Windows** (PowerShell, scripts DOS) n’est pas utilisé directement sur le mainframe, mais peut être utile pour automatiser des tâches locales autour de son utilisation (préparation de fichiers, transferts, supervision).
+
+- [Documentation sur PowerShell et scripts DOS](https://docs.microsoft.com/en-us/powershell/)  
+ 
+- [Vidéo: Cours sur le scripting Powershell](https://www.youtube.com/watch?v=ZOoCaWyifmI)  
+
 
 ---
 
@@ -132,18 +138,32 @@ Ces près-requis sont nécessaires pour bien appréhender un environnement mainf
 
 ### Qu'est-ce que z/OS ?
 
-z/OS est un système d'exploitation puissant et central pour les environnements mainframe. Il gère les ressources matérielles et logicielles, et permet le traitement de données à grande échelle.
+**z/OS** est le **système d’exploitation** utilisé sur les **mainframes IBM**, des ordinateurs très puissants conçus pour gérer d’énormes volumes de données et exécuter des milliers de traitements en parallèle.  
+
+C’est l’équivalent de Windows ou Linux, mais pour des machines beaucoup plus robustes, utilisées principalement dans les grandes entreprises (banques, assurances, administrations…).
+
+Contrairement aux ordinateurs personnels, les mainframes tournent en continu, 24h/24, 7j/7, et z/OS est conçu pour garantir **fiabilité**, **sécurité** et **performance** dans ce contexte.
+
+### Pourquoi c’est important ?
+
+z/OS permet :
+- De **lancer et gérer des programmes** en masse (souvent appelés *jobs*)
+- D’**organiser les fichiers** de façon très structurée
+- D’**automatiser les traitements**, souvent via des langages comme **JCL** ou des scripts
+- De gérer plusieurs utilisateurs et applications en même temps, sans interruption
+
+Découvrir z/OS:
+
+- [Vidéo d'introduction à z/OS](https://www.youtube.com/watch?v=ELdctFIRvRU)  
+
+- [Cours complet sur z/OS](https://www.coursera.org/learn/system-programming)
+
+Pour aller plus loin:
 
 - [Documentation détaillée sur z/OS](https://www.ibm.com/docs/en/zos/2.5.0)    
-  Accédez à la documentation complète d'IBM sur z/OS pour une compréhension approfondie du système d'exploitation.
-
-- [Vidéo d'introduction à z/OS](https://www.youtube.com/watch?v=7-9cOM5fpQ0)  
-  Une vidéo introductive qui présente les bases de z/OS et ses fonctionnalités essentielles pour les gestionnaires d'applications.
   
 - [Utilisation d'IBM Developer pour z/OS](https://www.ibm.com/docs/fr/adffz5/developer-for-zos/15.0)   
-  Accédez à la documentation complète d'IBM sur z/OS pour une compréhension approfondie de l'ensemble d'outil IBM Developer.
 ---
-
 ## Ressources pour MVS et Gestion des Ressources - AURELIEN
 
 ### MVS : Multiple Virtual Storage
