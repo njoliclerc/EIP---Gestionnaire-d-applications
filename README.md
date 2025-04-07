@@ -202,6 +202,9 @@ Les systèmes mainframe, tels que z/OS, traitent d'énormes volumes de données 
 - **Accès séquentiel** est idéal pour les fichiers où les données doivent être lues dans un ordre particulier.
 - **Accès partitionné** permet de gérer de grandes quantités de données de manière modulaire et flexible.
 
+  
+Découvrir VSAM:
+
 - [Introduction à VSAM](https://www.youtube.com/watch?v=IM6o0OnfNOo) 
 
 - [Playlist Vidéo: Cours complet sur VSAM](https://www.youtube.com/playlist?list=PLLcYGaQ7eeuQr-AlEgf4GG-FzS3eimdlm)
