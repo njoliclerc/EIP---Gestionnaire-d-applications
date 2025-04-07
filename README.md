@@ -156,8 +156,6 @@ Découvrir z/OS:
 
 - [Vidéo d'introduction à z/OS](https://www.youtube.com/watch?v=ELdctFIRvRU)  
 
-- [Cours complet sur z/OS](https://www.coursera.org/learn/system-programming)
-
 Pour aller plus loin:
 
 - [Documentation détaillée sur z/OS](https://www.ibm.com/docs/en/zos/2.5.0)    
@@ -191,19 +189,28 @@ L'un des concepts clés de MVS est la gestion de la mémoire virtuelle, ce qui p
 
 ## Accès aux Données : VSAM, Séquentielle, Partitionnée - Raphaël
 
-### Accès aux données sur z/OS
+### Accès aux Données sur z/OS
 
-Les méthodes d'accès aux données telles que **VSAM** et l'accès **séquentiel** sont au cœur des systèmes mainframe. Comprendre comment elles fonctionnent est essentiel pour gérer les données de manière efficace.
+Sur **z/OS**, l'un des aspects cruciaux du système est la gestion et l'accès aux **données**. Que ce soit pour stocker, récupérer ou manipuler des informations, z/OS offre plusieurs méthodes d'accès aux données adaptées à différents types de besoins.  
 
-- [Introduction à VSAM](https://www.ibm.com/docs/en/zos/2.4.0?topic=vsam)  
-  Un guide sur VSAM (Virtual Storage Access Method), une méthode d'accès aux fichiers fréquemment utilisée sur z/OS.
+Les principales méthodes incluent l’accès aux données **VSAM (Virtual Storage Access Method)**, **séquentiel** et **partitionné**, chacune ayant des caractéristiques spécifiques en fonction du type de données à gérer et des performances recherchées.
 
-- [Accès séquentiel aux fichiers sur z/OS](https://www.ibm.com/docs/en/zos/2.4.0?topic=sequential)  
-  La méthode d'accès séquentiel et comment elle est utilisée pour les fichiers sur z/OS.
+#### Pourquoi ces méthodes sont-elles importantes ?
+Les systèmes mainframe, tels que z/OS, traitent d'énormes volumes de données en parallèle, et il est donc crucial de disposer de mécanismes d'accès efficaces et fiables pour garantir des performances optimales.
 
-- [Vidéo : Accès aux données avec VSAM sur z/OS](https://www.youtube.com/watch?v=0xtfPzIn0Bc)  
-  Une vidéo expliquant le fonctionnement du système d'accès aux données VSAM.
+- **VSAM** est souvent utilisé pour les fichiers indexés et les bases de données complexes.
+- **Accès séquentiel** est idéal pour les fichiers où les données doivent être lues dans un ordre particulier.
+- **Accès partitionné** permet de gérer de grandes quantités de données de manière modulaire et flexible.
 
+- [Introduction à VSAM](https://www.youtube.com/watch?v=IM6o0OnfNOo) 
+
+- [Playlist Vidéo: Cours complet sur VSAM](https://www.youtube.com/playlist?list=PLLcYGaQ7eeuQr-AlEgf4GG-FzS3eimdlm)
+
+Pour aller plus loin:
+
+- [Documentation détaillée IBM sur VSAM](https://www.ibm.com/docs/en/zos/2.4.0?topic=vsam)
+
+- [Accès séquentiel aux fichiers sur z/OS](https://www.ibm.com/docs/en/zos/2.4.0?topic=reference-sequential-transfer-data-area-seq)
 ---
 
 ## JCL : Job Control Language - AURELIEN
