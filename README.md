@@ -187,35 +187,6 @@ L'un des concepts clés de MVS est la gestion de la mémoire virtuelle, ce qui p
 
 ---
 
-## Accès aux Données : VSAM, Séquentielle, Partitionnée - Raphaël
-
-### Accès aux Données sur z/OS
-
-Sur **z/OS**, l'un des aspects cruciaux du système est la gestion et l'accès aux **données**. Que ce soit pour stocker, récupérer ou manipuler des informations, z/OS offre plusieurs méthodes d'accès aux données adaptées à différents types de besoins.  
-
-Les principales méthodes incluent l’accès aux données **VSAM (Virtual Storage Access Method)**, **séquentiel** et **partitionné**, chacune ayant des caractéristiques spécifiques en fonction du type de données à gérer et des performances recherchées.
-
-#### Pourquoi ces méthodes sont-elles importantes ?
-Les systèmes mainframe, tels que z/OS, traitent d'énormes volumes de données en parallèle, et il est donc crucial de disposer de mécanismes d'accès efficaces et fiables pour garantir des performances optimales.
-
-- **VSAM** est souvent utilisé pour les fichiers indexés et les bases de données complexes.
-- **Accès séquentiel** est idéal pour les fichiers où les données doivent être lues dans un ordre particulier.
-- **Accès partitionné** permet de gérer de grandes quantités de données de manière modulaire et flexible.
-
-  
-Découvrir VSAM:
-
-- [Introduction à VSAM](https://www.youtube.com/watch?v=IM6o0OnfNOo) 
-
-- [Playlist Vidéo: Cours complet sur VSAM](https://www.youtube.com/playlist?list=PLLcYGaQ7eeuQr-AlEgf4GG-FzS3eimdlm)
-
-Pour aller plus loin:
-
-- [Documentation détaillée IBM sur VSAM](https://www.ibm.com/docs/en/zos/2.4.0?topic=vsam)
-
-- [Accès séquentiel aux fichiers sur z/OS](https://www.ibm.com/docs/en/zos/2.4.0?topic=reference-sequential-transfer-data-area-seq)
----
-
 ## JCL : Job Control Language - AURELIEN
 
 ### Qu'est-ce que le JCL ?
@@ -292,26 +263,62 @@ Les systèmes mainframe z/OS sont conçus pour gérer efficacement des volumes m
 - [Tutoriel d'un outils de Transactions](https://www.mainframestechhelp.com/tutorials/cics/)
 
 ---
+## Accès aux Données : VSAM, Séquentielle, Partitionnée - Raphaël
+
+### Accès aux Données sur z/OS
+
+Sur **z/OS**, l'un des aspects cruciaux du système est la gestion et l'accès aux **données**. Que ce soit pour stocker, récupérer ou manipuler des informations, z/OS offre plusieurs méthodes d'accès aux données adaptées à différents types de besoins.  
+
+Les principales méthodes incluent l’accès aux données **VSAM (Virtual Storage Access Method)**, **séquentiel** et **partitionné**, chacune ayant des caractéristiques spécifiques en fonction du type de données à gérer et des performances recherchées.
+
+#### Pourquoi ces méthodes sont-elles importantes ?
+Les systèmes mainframe, tels que z/OS, traitent d'énormes volumes de données en parallèle, et il est donc crucial de disposer de mécanismes d'accès efficaces et fiables pour garantir des performances optimales.
+
+- **VSAM** est souvent utilisé pour les fichiers indexés et les bases de données complexes.
+- **Accès séquentiel** est idéal pour les fichiers où les données doivent être lues dans un ordre particulier.
+- **Accès partitionné** permet de gérer de grandes quantités de données de manière modulaire et flexible.
+
+- [Introduction à VSAM](https://www.youtube.com/watch?v=IM6o0OnfNOo) 
+
+- [Playlist Vidéo: Cours complet sur VSAM](https://www.youtube.com/playlist?list=PLLcYGaQ7eeuQr-AlEgf4GG-FzS3eimdlm)
+
+Pour aller plus loin:
+
+- [Documentation détaillée IBM sur VSAM](https://www.ibm.com/docs/en/zos/2.4.0?topic=vsam) (Utilisez la barre de recherche latérale pour trouver le sujet souhaité)
+
+- [Accès séquentiel aux fichiers sur z/OS](https://www.ibm.com/docs/en/zos/2.4.0?topic=reference-sequential-transfer-data-area-seq) (Utilisez la barre de recherche latérale pour trouver le sujet souhaité)
+---
 
 ## Bases de Données IMS et DB2 - Raphaël
 
 ### Bases de Données IMS et DB2
 
-Les bases de données **IMS** et **DB2** sont essentielles pour la gestion des données sur un mainframe. Vous trouverez ici des ressources pour comprendre leur structure et leur utilisation.
+Dans un environnement mainframe z/OS, les **bases de données** jouent un rôle essentiel dans la gestion des informations. Deux des systèmes de gestion de bases de données les plus utilisés sont **IMS (Information Management System)** et **DB2**.
 
-- - https://www.youtube.com/watch?v=bPeeq2ZvEZk 
+Ces bases de données permettent de **stocker, organiser et accéder efficacement aux données** utilisées par les applications métiers critiques des grandes entreprises (banques, assurances, industries…).
 
-- [Guide d'installation IMS & DB2](https://www.youtube.com/watch?v=4hMGzhIQS7k)  
-  Tutoriel d'installation IMS et DB2 sur Windows.
+#### IMS : une base hiérarchique
+IMS est un **SGBD hiérarchique**, c’est-à-dire que les données y sont organisées comme un arbre, avec des relations parent-enfant. Il est particulièrement performant pour les traitements très rapides et massifs, souvent utilisés dans les systèmes bancaires en ligne.
+
+#### DB2 : une base relationnelle
+DB2 est un **SGBD relationnel**, plus proche des bases SQL modernes. Il organise les données en **tables** et permet des requêtes complexes à l’aide du langage **SQL**. DB2 est très puissant pour des analyses de données, rapports, et traitements transactionnels complexes.
+
+
+- [Introduction à IMS](https://www.youtube.com/watch?v=bPeeq2ZvEZk)
+
+- [Introduction à DB2](https://www.youtube.com/watch?v=J8GvsoFLYEY)
+
+- [Difference entre IMS et DB2](https://mediacenter.ibm.com/media/Intro%2Bto%2BIMS%2B-%2BFundamentals%2Bof%2BIMS%2BDB/1_hiplkqw3?utm_source=chatgpt.com)
+
+- [Vidéo cours complet DB2](https://www.youtube.com/watch?v=pQ5TtKDEab4)  
+
+- [Cours complet IMS](https://www.youtube.com/watch?v=pQ5TtKDEab4) 
+
+Pour aller plus loin: 
 
 - [Documentation sur IMS (Information Management System)](https://www.ibm.com/docs/en/ims)  
-  Un guide complet sur le système de gestion de bases de données IMS.
 
-- [Guide DB2 sous z/OS](https://www.ibm.com/docs/en/db2/12.1)  
-  La documentation sur DB2, un des systèmes de bases de données relationnelles les plus utilisés sur mainframe.
-
-- [Vidéo : Utilisation de DB2 avec SQL dans un environnement Mainframe](https://www.youtube.com/watch?v=5Vgzm2Wz8g4)  
-  Cette vidéo montre comment utiliser DB2 avec SQL dans un environnement mainframe.
+- [Guide DB2 sous z/OS](https://www.ibm.com/docs/en/db2)  
 
 ---
 
