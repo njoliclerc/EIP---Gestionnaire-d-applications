@@ -312,7 +312,7 @@ DB2 est un **SGBD relationnel**, plus proche des bases SQL modernes. Il organise
 
 - [Vidéo cours complet DB2](https://www.youtube.com/watch?v=pQ5TtKDEab4)  
 
-- [Cours complet IMS](https://www.youtube.com/watch?v=pQ5TtKDEab4) 
+- [Cours complet IMS](https://www.tutorialspoint.com/ims_db/index.htm)
 
 Pour aller plus loin: 
 - Exercices pour s'netrainer au langage SQL: [Exercices SQL](https://fxjollois.github.io/cours-sql/)
