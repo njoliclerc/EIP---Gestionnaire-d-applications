@@ -183,7 +183,7 @@ L'un des concepts clés de MVS est la gestion de la mémoire virtuelle, ce qui p
 
 - [Cours / TP (Vidéo)](https://www.youtube.com/watch?v=YA3FQOzr0ag)
 
-- Pour aller plus loin: [Documentation MVS d'IBM](https://www.ibm.com/docs/en/zos/2.4.0)
+- Pour aller plus loin (Utiliser la barre de recherche): [Documentation MVS d'IBM](https://www.ibm.com/docs/en/zos/2.4.0)
 
 ---
 
