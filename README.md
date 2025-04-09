@@ -183,7 +183,7 @@ L'un des concepts clés de MVS est la gestion de la mémoire virtuelle, ce qui p
 
 - [Cours / TP (Vidéo)](https://www.youtube.com/watch?v=YA3FQOzr0ag)
 
-- Pour aller plus loin (Utiliser la barre de recherche): [Documentation MVS d'IBM](https://www.ibm.com/docs/en/zos/2.4.0)
+- Pour aller plus loin (Utilisez la barre de recherche latérale pour trouver le sujet souhaité): [Documentation MVS d'IBM](https://www.ibm.com/docs/en/zos/2.4.0)
 
 ---
 
@@ -315,7 +315,7 @@ DB2 est un **SGBD relationnel**, plus proche des bases SQL modernes. Il organise
 - [Cours complet IMS](https://www.tutorialspoint.com/ims_db/index.htm)
 
 Pour aller plus loin: 
-- Exercices pour s'netrainer au langage SQL: [Exercices SQL](https://fxjollois.github.io/cours-sql/)
+- Exercices pour s'entrainer au langage SQL: [Exercices SQL](https://fxjollois.github.io/cours-sql/)
 
 - [Documentation sur IMS (Information Management System)](https://www.ibm.com/docs/en/ims)  
 
