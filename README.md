@@ -73,7 +73,7 @@ Le Gestionnaire d’Application (GA) est responsable du bon fonctionnement des a
 📌 *N'hésite pas à cliquer sur les mots en gras pour en savoir plus sur leurs définitions*
 
 - **Intégrer les traitements** dans les outils de [**supervision**](https://www.les-innovations-pour-toi.com/actu/5/que-savoir-sur-la-supervision-informatique), de [**plannification**](https://www.weodeo.com/blog-maintenance-informatique/ordonnancement-informatique-principes-techniques-et-applications) et [**d’ordonnancement**](https://www.weodeo.com/blog-maintenance-informatique/ordonnancement-informatique-principes-techniques-et-applications)
-- **Effectuer les livraisons** en environnement de [**recette**] Cf.[Explication des différents environnements](, puis en **production** (MEP – mise en production)
+- **Effectuer les livraisons** en environnement de [**recette**](https://perso.liris.cnrs.fr/amelie.cordier/teaching/recettes/), puis en **production** (MEP – mise en production)
 - **Rédiger la documentation** liée au fonctionnement des applications (**procédures d’exploitation**)
 - **Assurer la supervision** des applications et faire le lien avec les **équipes métiers** (**coordination technique**)
 - **Traiter les incidents** jusqu’à leur **résolution complète** (support **niveau 3**) et réaliser les **interventions techniques** nécessaires
